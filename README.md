@@ -96,10 +96,6 @@ I believe in continuous improvement: **1% every day** 📈
 
 If you're working on something exciting — let's chat, collaborate, or build together!
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mamatahc&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-</p>
-
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/mamatahc)  
 - 💻 [GitHub](https://github.com/Mamatahc)  
@@ -110,3 +106,7 @@ If you're working on something exciting — let's chat, collaborate, or build to
 ---
 
 <p align="center"><i>“Tech with purpose. Code with clarity. Create with joy.”</i> ✨</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mamatahc&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+</p>
