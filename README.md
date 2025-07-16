@@ -3,26 +3,28 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mamatahc" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-MamataHC-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:mamatahc55@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Me-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/Mamatahc" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Mamatahc-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
   <a href="https://quantumshare.quantumparadigm.in" target="_blank">
-    <img src="https://img.shields.io/badge/Live_App-Quantum_Share-brightgreen?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Live%20Project-Quantum%20Share-%2300C853?style=flat-square&logo=vercel&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/MamataC15/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-DSA-orange?style=for-the-badge&logo=leetcode&logoColor=black" />
+    <img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
   </a>
-  <a href="https://drive.google.com/file/d/1owkNRE3aK0z9l_VBS-d_vWc2jGkh3aow/view" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  <a href="https://drive.google.com/file/d/1fHMQBk7lZEZHqCxU-9zSaw0MH_87goNY/view?usp=drivesdk" target="_blank">
+    <img src="https://img.shields.io/badge/View-Resume-blue?style=flat-square&logo=adobeacrobatreader&logoColor=white" />
   </a>
 </p>
 
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mamatahc&label=Profile%20Views&color=0e75b6&style=flat-square" />
+</p>
 
 ---
 
@@ -106,7 +108,7 @@ If you're working on something exciting — let's chat, collaborate, or build to
 - 💻 [GitHub](https://github.com/Mamatahc)  
 - 🌐 [Quantum Share](https://quantumshare.quantumparadigm.in)  
 - 📧 mamatahc55@gmail.com  
-- 📄 [Resume (Google Drive)](https://drive.google.com/file/d/1owkNRE3aK0z9l_VBS-d_vWc2jGkh3aow/view)
+- 📄 [Resume (Google Drive)](https://drive.google.com/file/d/1fHMQBk7lZEZHqCxU-9zSaw0MH_87goNY/view?usp=drivesdk)
 
 ---
 
