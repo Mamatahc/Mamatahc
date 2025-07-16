@@ -21,11 +21,6 @@
     <img src="https://img.shields.io/badge/View-Resume-blue?style=flat-square&logo=adobeacrobatreader&logoColor=white" />
   </a>
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mamatahc&label=Profile%20Views&color=0e75b6&style=flat-square" />
-</p>
-
 ---
 
 ## 💬 About Me
