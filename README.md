@@ -8,9 +8,6 @@
   <a href="mailto:mamatahc55@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Me-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/Mamatahc" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
   <a href="https://quantumshare.quantumparadigm.in" target="_blank">
     <img src="https://img.shields.io/badge/Live%20Project-Quantum%20Share-%2300C853?style=flat-square&logo=vercel&logoColor=white" />
   </a>
