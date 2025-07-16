@@ -83,13 +83,13 @@ Practicing on LeetCode & understanding core patterns:
 
 ---
 
+
 ## 📊 Mamata HC's GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mamatahc&theme=github_light" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mamatahc&theme=github_light" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mamatahc&theme=github_light" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mamatahc&theme=github_light&utcOffset=5" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mamatahc&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mamatahc&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mamatahc&layout=compact&theme=tokyonight" />
 </p>
 
 ---
