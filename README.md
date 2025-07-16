@@ -3,24 +3,23 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mamatahc" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-MamataHC-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:mamatahc55@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/Mamatahc" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Mamatahc-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://quantumshare.quantumparadigm.in" target="_blank">
-    <img src="https://img.shields.io/badge/Live_App-00C853?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Live_App-Quantum_Share-brightgreen?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/MamataC15/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+    <img src="https://img.shields.io/badge/LeetCode-DSA-orange?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-  <!-- Optional resume button: -->
-  <!-- <a href="https://drive.google.com/your-resume-link" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
-  </a> -->
+  <a href="https://drive.google.com/file/d/1owkNRE3aK0z9l_VBS-d_vWc2jGkh3aow/view" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
@@ -29,83 +28,87 @@
 
 ---
 
-## 💬 Who Am I?
+## 💬 About Me
 
-I'm a passionate full stack developer based in Bangalore who loves building meaningful digital experiences — from scalable backend APIs to clean and responsive frontends.
+Hi! I'm Mamata, a Bangalore-based full stack developer who enjoys creating practical, real-world applications that blend clean frontends with powerful backend systems.
 
-After starting my career in QA automation, I shifted my focus to full-stack development because I enjoy being involved in both the **how** and the **why** behind a product.
+💼 I started as a QA Automation Engineer but soon realized I wanted to build end-to-end solutions — and never looked back!
 
-Whether it's integrating YouTube APIs, implementing real-time notifications, or designing clean React components — I love crafting things that solve real-world problems.
-
-💬 I'm also actively involved in **client meetings** to **demo, explain, and promote our product offerings**, which has helped me improve both my technical communication and business understanding.
+I love:
+- Building reusable React components
+- Designing clean APIs with Spring Boot
+- Adding real-time features using Firebase
+- Solving DSA problems and explaining logic clearly to others
 
 ---
 
 ## 🛠️ Tech Stack
 
-- 🔙 **Backend:** Java, Spring Boot, REST APIs, MySQL  
-- 🎨 **Frontend:** React.js, HTML5, CSS3, JavaScript  
-- ☁️ **Tools & Services:** Postman, GitHub, AWS, Firebase, Android Studio  
-- 🧠 **Practicing:** Clean architecture, performance optimization, UI/UX design
+- 🧩 **Languages:** Java, JavaScript, HTML, CSS  
+- 🔙 **Backend:** Spring Boot, REST APIs, MySQL  
+- 🎨 **Frontend:** React.js, Tailwind, Material UI  
+- ☁️ **Tools:** Postman, GitHub, Firebase, AWS, Android Studio  
+- 🧠 **Focus:** Clean architecture, scalability, system design, UI/UX
 
 ---
 
-## 🚀 Projects I've Built
+## 🚀 Projects
 
 ### 📌 [Quantum Share](https://quantumshare.quantumparadigm.in)  
-A global content-sharing platform integrating multiple social media channels.  
-→ I led YouTube API backend integration, hashtag features, and Firebase web push notifications.
+A social content-sharing platform.  
+🔧 Led backend YouTube API integration, built hashtag system, & push notifications.
 
 ### 📌 [Planotech App](https://play.google.com/store/apps/details?id=com.planotech.planotech)  
-An Android event/media app.  
-→ I contributed UI templates, backend logic, and deployment assistance.
+Android app for event/media management.  
+🎨 Developed mobile UI templates, backend logic, and app deployment.
 
 ### 📌 [Audio Fusion App](https://www.quantumparadigm.in/mobile-app-development/)  
-Audio-based learning platform.  
-→ I enhanced backend playback and built admin-level media controls.
+Platform for audio-based learning.  
+🎧 Enhanced backend services, built admin media controls.
 
 ---
 
-## 🎯 What I'm Doing Now
+## 🎯 Currently Working On
 
-- 🔄 Building reusable components in React and microservices in Spring Boot  
-- 🚀 Exploring Tailwind CSS, Firebase, and UI animations  
-- 🧮 Sharpening DSA and low-level design  
-- 💼 Participating in product demos and client discussions
-
----
-
-## 🧩 DSA Practice
-
-Solving DSA problems regularly on LeetCode using patterns like:
-
-- Two Pointers  
-- Sliding Window  
-- Recursion & Backtracking  
-- Dynamic Programming  
-
-🔗 [Visit My LeetCode](https://leetcode.com/u/MamataC15/)
+- 🔄 Microservices with Spring Boot  
+- 💡 Firebase real-time features  
+- 🎨 Custom UI libraries with Tailwind + React  
+- 🧩 DSA + System Design prep for product companies
 
 ---
 
-## 🎓 My Learning Path
+## 🧠 DSA Journey
 
-- 🎓 B.E. in Computer Science – NMIT, Bangalore  
-- 🎓 Diploma in CSE – Ramaiah Polytechnic  
-- 📘 Full Stack Bootcamp – JSpiders (Java, Spring Boot, React, MySQL)
+Practicing on LeetCode & understanding core patterns:
 
-I believe in growing **1% better every day** — in both code and life 🌱
+- 🔹 Sliding Window  
+- 🔹 Recursion & Backtracking  
+- 🔹 Two Pointers  
+- 🔹 Dynamic Programming  
+
+🔗 [Visit My LeetCode Profile](https://leetcode.com/u/MamataC15/)
+
+---
+
+## 🎓 Education
+
+- 🎓 B.E. – Computer Science, NMIT Bangalore  
+- 🎓 Diploma – CSE, Ramaiah Polytechnic  
+- 📘 Full Stack Bootcamp – JSpiders
+
+I believe in continuous improvement: **1% every day** 📈
 
 ---
 
 ## 🤝 Let’s Connect
 
-If you're working on something exciting — let's connect, collaborate, and grow together!
+If you're working on something exciting — let's chat, collaborate, or build together!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/mamatahc)  
 - 💻 [GitHub](https://github.com/Mamatahc)  
 - 🌐 [Quantum Share](https://quantumshare.quantumparadigm.in)  
-- 📧 mamatahc55@gmail.com
+- 📧 mamatahc55@gmail.com  
+- 📄 [Resume (Google Drive)](https://drive.google.com/file/d/1owkNRE3aK0z9l_VBS-d_vWc2jGkh3aow/view)
 
 ---
 
