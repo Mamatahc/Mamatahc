@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! 👋 I'm Mamata H C</h1>
-<p align="center">🧑‍💻 Full Stack Developer | Java • Spring Boot • React • Firebase • MySQL</p>
+<p align="center"><strong>🧑‍💻 Full Stack Developer | Java • Spring Boot • React • MySQL • DSA</strong></p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mamatahc" target="_blank">
