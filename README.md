@@ -85,13 +85,26 @@ Practicing on LeetCode & understanding core patterns:
 
 ## 📊 GitHub Stats
 
+---
+
+## 📊 GitHub Stats & Activity
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mamatahc&show_icons=true&theme=radical&count_private=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mamatahc&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mamatahc&layout=compact&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mamatahc&theme=tokyonight&hide_border=true" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mamatahc&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mamatahc&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
 
 ---
 
