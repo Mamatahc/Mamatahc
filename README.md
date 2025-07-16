@@ -83,12 +83,6 @@ Practicing on LeetCode & understanding core patterns:
 
 ---
 
-## 📊 GitHub Stats
-
----
-
-## 📊 GitHub Stats & Activity
-
 ## 📊 Mamata HC's GitHub Stats
 
 <p align="center">
@@ -97,7 +91,6 @@ Practicing on LeetCode & understanding core patterns:
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mamatahc&theme=github_light" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mamatahc&theme=github_light&utcOffset=5" />
 </p>
-
 
 ---
 
