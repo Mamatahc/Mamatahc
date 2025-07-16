@@ -18,6 +18,7 @@
     <img src="https://img.shields.io/badge/View-Resume-blue?style=flat-square&logo=adobeacrobatreader&logoColor=white" />
   </a>
 </p>
+
 ---
 
 ## 💬 About Me
@@ -82,6 +83,18 @@ Practicing on LeetCode & understanding core patterns:
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mamatahc&show_icons=true&theme=radical&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mamatahc&layout=compact&theme=radical" />
+</p>
+
+---
+
 ## 🎓 Education
 
 - 🎓 B.E. – Computer Science, NMIT Bangalore  
@@ -95,7 +108,6 @@ I believe in continuous improvement: **1% every day** 📈
 ## 🤝 Let’s Connect
 
 If you're working on something exciting — let's chat, collaborate, or build together!
-
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/mamatahc)  
 - 💻 [GitHub](https://github.com/Mamatahc)  
