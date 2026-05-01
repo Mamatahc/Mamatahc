@@ -112,7 +112,7 @@ If you're working on something exciting — let's chat, collaborate, or build to
 - 💻 [GitHub](https://github.com/Mamatahc)  
 - 🌐 [Quantum Share](https://quantumshare.quantumparadigm.in)  
 - 📧 mamatahc55@gmail.com  
-- 📄 [Resume (Google Drive)](https://drive.google.com/file/d/1fHMQBk7lZEZHqCxU-9zSaw0MH_87goNY/view?usp=drivesdk)
+- 📄 [Resume (Google Drive)](https://drive.google.com/file/d/1oFVZz6tbDXsC38TR7y4-berzi7lpdl_X/view?usp=drive_link)
 
 ---
 
