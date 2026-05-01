@@ -14,7 +14,7 @@
   <a href="https://leetcode.com/u/MamataC15/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
   </a>
-  <a href="(https://drive.google.com/file/d/1oFVZz6tbDXsC38TR7y4-berzi7lpdl_X/view?usp=drive_link)" target="_blank">
+  <a href="https://drive.google.com/file/d/1oFVZz6tbDXsC38TR7y4-berzi7lpdl_X/view?usp=drive_link" target="_blank">
     <img src="https://img.shields.io/badge/View-Resume-blue?style=flat-square&logo=adobeacrobatreader&logoColor=white" />
   </a>
 </p>
